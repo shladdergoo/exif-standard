@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>ExifStandard</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>James Fox</Authors>
+    <Description>.Net Standard 2.0 library for reading Exif meta data from JPEG files</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) James Fox. All rights reserved.</Copyright>
+    <PackageTags>exif jpeg jpg</PackageTags>
+    <PackageProjectUrl>https://github.com/shladdergoo/exif-standard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/shladdergoo/exif-standard</RepositoryUrl>
+  </PropertyGroup>
+</Project>
